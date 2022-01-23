@@ -1,7 +1,6 @@
 <template>
-  <div class="wrapper">
+  <div class="bg-white">
     <Header />
     <nuxt />
-    <ColorModePicker />
   </div>
 </template>
